@@ -10,4 +10,4 @@
 
 ## Installation
 
-To install `oneko` on your Ubuntu system, follow the steps in the file 'How to install oneko in ubantu?'
+To install `oneko` on your Ubuntu system, follow the steps in the file 'How to set up cursor?'
